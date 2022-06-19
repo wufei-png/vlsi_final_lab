@@ -1,0 +1,20 @@
+$date
+	Fri Jun 17 08:53:41 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module test $end
+$var reg 1 ! clock $end
+$var integer 32 " index [31:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+x!
+$end
+#2000

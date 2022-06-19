@@ -1,0 +1,8 @@
+3676 + 0000 i   005a + 00f7 i   fd3a + 04de i   03d5 + 05fb i   fefd + fe27 i   fe99 + f909 i   fce1 + ff78 i   06ce + f543 i
+005a + ff09 i   3f83 + 0000 i   01a8 + 0053 i   0284 + 06af i   fc68 + 06a4 i   016f + fe5c i   01e8 + fcf4 i   f714 + 0367 i
+fd3a + fb22 i   01a8 + ffad i   464f + 0000 i   005d + 0513 i   f9c7 + 09d1 i   fe32 + fac8 i   0131 + 0743 i   0161 + 0308 i
+03d5 + fa06 i   0284 + f951 i   005d + faed i   4326 + 0000 i   fed6 + 033d i   f5e4 + 0566 i   03d9 + f9d8 i   009b + f6d6 i
+fefd + 01d9 i   fc68 + f95c i   f9c7 + f630 i   fed6 + fcc3 i   3e2e + 0000 i   fa30 + 0526 i   fa77 + f920 i   fc39 + 04e7 i
+fe99 + 06f7 i   016f + 01a4 i   fe32 + 0538 i   f5e4 + fa9b i   fa30 + fada i   35ef + 0000 i   fe51 + 045f i   037f + ff22 i
+fce1 + 0089 i   01e8 + 030c i   0131 + f8bd i   03d9 + 0629 i   fa77 + 06e0 i   fe51 + fba2 i   3f64 + 0000 i   f844 + ff55 i
+06ce + 0abd i   f714 + fc9a i   0161 + fcf9 i   009b + 092a i   fc39 + fb1a i   037f + 00de i   f844 + 00ab i   3d5c + 0000 i
